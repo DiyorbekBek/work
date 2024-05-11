@@ -42,7 +42,7 @@ function Footer() {
             </li>
             <li>
               <Link
-                to="/headphones"
+                to="/"
                 onClick={() =>
                   window.scrollTo({ top: top, behavior: "smooth" })
                 }
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li>
               <Link
-                to="/speakers"
+                to="/"
                 onClick={() =>
                   window.scrollTo({ top: top, behavior: "smooth" })
                 }
@@ -64,7 +64,7 @@ function Footer() {
             </li>
             <li>
               <Link
-                to="/earphones"
+                to="/"
                 onClick={() =>
                   window.scrollTo({ top: top, behavior: "smooth" })
                 }
